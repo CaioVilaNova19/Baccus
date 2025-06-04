@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+Venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Modelos treinados (pesados, não subir)
+Baccus_en_pt/
+
+# Arquivos traduzidos exceto teste2_traduzido.txt
+dionisiaca_book1_traduzido.txt
+luke_traduzido.txt
+teste2_traduzidoold.txt
+teste_traduzido.txt
+texto_traduzido.txt
+
