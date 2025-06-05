@@ -1,7 +1,7 @@
 # Baccus
 
 Baccus é um projeto de pesquisa e desenvolvimento focado em aprimorar a tradução de textos complexos (en-pt). 
-Utilizando modelos de machine learning e técnicas modernas de processamento de linguagem natural (NLP), buscamos melhorar a qualidade das traduções em cenários onde os tradutores automáticos tradicionais falham, especialmente em textos técnicos, acadêmicos ou literários.
+Utilizando o modelo Helsinki-NLP/opus-mt-en-ROMANCE com fine-tuning local, buscamos melhorar a qualidade das traduções em cenários onde os tradutores automáticos tradicionais falham, especialmente em textos técnicos, acadêmicos ou literários.
 ---
 
 ## Objetivos
