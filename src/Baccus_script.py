@@ -15,8 +15,8 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device)
 
 # Carregar dados
-source_file = "./data/source.txt"
-target_file = "./data/target.txt"
+source_file = "../data/clean/source.txt"
+target_file = "../data/clean/target.txt"
 
 with open(source_file, "r", encoding="utf-8") as f:
     src_lines = [line.strip() for line in f.readlines()]
